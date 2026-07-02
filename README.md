@@ -6,7 +6,7 @@ A full machine learning workflow applied to the Titanic dataset, covering data c
 
 The Titanic dataset (`titanic.csv`) contains passenger-level records with the following raw columns: `pclass`, `survival`, `sex`, `age`, `fare`, `embarked`.
 
-> **Note:** Place `titanic.csv` in this folder before running the notebooks. [Add your dataset source link here, e.g. Kaggle.]
+(https://www.kaggle.com/datasets/fossouodonald/titaniccsv/data)
 
 ## Workflow
 
